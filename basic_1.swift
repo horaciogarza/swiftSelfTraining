@@ -7,19 +7,19 @@ let imAFuckingConstant = 50;
 
 
 var imAVariable: Int = 100; // "Declare a variable called imAVariable and make it Int with a value of 100"
-var woman = false // The "Woman", she doesn't like semicolons because they are not of her type (if u didn't get the joke look that she doesnt has a type)
-var madame: Bool = true; // The madame likes this ones
+var woman = false // The "Woman", she doesn't like semicolons because they are not of her type (if u didn't get the joke look that she isn't of your type)
+var bitch: Bool = true; // Bitches likes this ones
 
 
 //Haha well, now lets get serious >:)
 
-if !madame {
+if !bitch {
     
-    print("This madame rocks") 
+    print("This bitch rocks") 
 }
 else {
     if (200 > 100) {
-        print("Whatever, the \(madame) doesn't rocks at all")     
+        print("Meeeh, the \(bitch) doesn't rock at all")     
     }
     else {
         
