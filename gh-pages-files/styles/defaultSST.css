@@ -13,7 +13,11 @@ src: local('fontello'), url('fontello.woff') format('woff');
 }
 
 body{
-    background-color: #FB7B3E !important;
+    /*background-color: #FB7B3E !important;*/
+    background-image: url("os-x-10.11-wallpaper.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;
     font-family:'helvetica-neue';
     font-weight:normal;
     font-size:42px
@@ -69,10 +73,13 @@ body{
 }
 th{
   font-size: 18px;
+  background-color: #428bca !important;
+  opacity: 0.9;
 }
 
 .success{
-  background-color: #5cb85c !important;
+  background-color: #5cb85c !important ;
+  opacity: 0.9;
 }
 .successOK:after{
   font-family: 'fontello';
