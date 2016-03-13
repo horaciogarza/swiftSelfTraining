@@ -6,10 +6,10 @@ src: local('Helvetica Neue LT Std 45 Light'), url('HelveticaNeueLTStd_Lt.woff') 
 }
 
 @font-face{
-font-family: 'Helvetica Neue LT Std 45 Light';
+font-family: 'fontello';
 font-style: normal;
 font-weight: normal;
-src: local('Helvetica Neue LT Std 45 Light'), url('HelveticaNeueLTStd Lt.woff') format('woff');
+src: local('fontello'), url('fontello.woff') format('woff');
 }
 
 body{
@@ -25,7 +25,65 @@ body{
   margin-top: 3%
 }
 
-.fontello-icon{
+#git_ico:before{
+  content: "\E801 ";
   font-family:'fontello' !important;
   font-weight:normal;
+  font-size:22px;
+}
+
+#twitter_ico:before{
+  content: "\E807 ";
+  font-family:'fontello' !important;
+  font-weight:normal;
+  font-size:22px;
+
+}
+.to-go-dev{ font-size: 15px !important }
+
+.text-title{
+  color: white;
+}
+
+.col-md-6{
+  font-size: 15px
+}
+#code-grid{
+  width: 60%;
+  margin: auto;
+  font-size: 18px;
+
+}
+
+.col-md-4{
+  outline-color: black;
+  outline: solid;
+  outline-width: thin;
+}
+
+.table{
+  width: 60%;
+
+  margin: auto;
+  text-align: center;
+}
+th{
+  font-size: 18px;
+}
+
+.success{
+  background-color: #5cb85c !important;
+}
+.successOK:after{
+  font-family: 'fontello';
+  content: '\E80F';
+}
+td,tr,th{
+  text-align: center;
+  background-color: inherit;
+}
+td{
+  background-color: inherit;
+  color: white;
+  font-size: 18px;
 }
