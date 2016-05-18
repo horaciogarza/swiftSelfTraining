@@ -11,9 +11,11 @@ All the codes were tested at <a href="https://swiftlang.ng.bluemix.net">IBM Sand
 <br>
 <h2>iOS and WatchOS Screens</h2>
 
-<img style="width: 50%; height: 50%" src="https://raw.githubusercontent.com/horaciogarza/swiftSelfTraining/gh-pages/assetsForReadme/Captura%20de%20pantalla%202016-05-18%20a%20las%205.32.14%20p.m..png">
-<img style="width: 50%; height: 50%" src="https://raw.githubusercontent.com/horaciogarza/swiftSelfTraining/gh-pages/assetsForReadme/Simulator%20Screen%20Shot%2018.05.2016%205.31.22%20p.m..png">
-<img style="width: 50%; height: 50%" src="https://github.com/horaciogarza/swiftSelfTraining/blob/gh-pages/assetsForReadme/Simulator%20Screen%20Shot%2018.05.2016%205.34.09%20p.m..png?raw=true">
-<img style="width: 50%; height: 50%" src="https://github.com/horaciogarza/swiftSelfTraining/blob/gh-pages/assetsForReadme/Simulator%20Screen%20Shot%2018.05.2016%205.37.38%20p.m..png?raw=true">
+<img class= "test" src="https://raw.githubusercontent.com/horaciogarza/swiftSelfTraining/gh-pages/assetsForReadme/Captura%20de%20pantalla%202016-05-18%20a%20las%205.32.14%20p.m..png" height="80%" width="80%">
+<img src="https://raw.githubusercontent.com/horaciogarza/swiftSelfTraining/gh-pages/assetsForReadme/Simulator%20Screen%20Shot%2018.05.2016%205.31.22%20p.m..png" height="30%" width="30%">
+<img src="https://github.com/horaciogarza/swiftSelfTraining/blob/gh-pages/assetsForReadme/Simulator%20Screen%20Shot%2018.05.2016%205.34.09%20p.m..png?raw=true" height="30%" width="30%">
+<img height="20%" width="20%" src="https://github.com/horaciogarza/swiftSelfTraining/blob/gh-pages/assetsForReadme/Simulator%20Screen%20Shot%2018.05.2016%205.37.38%20p.m..png?raw=true">
+
 <h5>Feel free to fork it!</h5>
 Feel free to fork this repo, or creating a pull request.
+
